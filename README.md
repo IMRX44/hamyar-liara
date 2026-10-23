@@ -1,13 +1,13 @@
 <div align="center">
 
-<a href="docs/demo.mp4"><img src="docs/cover.png" alt="همیار لیارا — ویدیوی دمو" width="100%"></a>
+<a href="https://hamyar-copilot.liara.run/demo.mp4"><img src="docs/cover.png" alt="همیار لیارا — ویدیوی دمو" width="100%"></a>
 
 # همیار لیارا · Liara Copilot
 
 **دستیار هوشمند راه‌اندازی، دیپلوی، پایش و عیب‌یابی وب‌سایت روی زیرساخت لیارا**
 
 [![Live](https://img.shields.io/badge/Live-hamyar--copilot.liara.run-4f46e5?style=for-the-badge)](https://hamyar-copilot.liara.run)
-[![Demo](https://img.shields.io/badge/%E2%96%B6%20%D9%88%DB%8C%D8%AF%DB%8C%D9%88%DB%8C%20%D8%AF%D9%85%D9%88-%DB%B5%3A%DB%B0%DB%B4-0d9488?style=for-the-badge)](docs/demo.mp4)
+[![Demo](https://img.shields.io/badge/%E2%96%B6%20%D9%88%DB%8C%D8%AF%DB%8C%D9%88%DB%8C%20%D8%AF%D9%85%D9%88-%DB%B5%3A%DB%B0%DB%B4-0d9488?style=for-the-badge)](https://hamyar-copilot.liara.run/demo.mp4)
 ![Next.js](https://img.shields.io/badge/Next.js-16-000?style=for-the-badge&logo=nextdotjs)
 ![Liara API](https://img.shields.io/badge/Liara-API-22d3ee?style=for-the-badge)
 
@@ -17,7 +17,7 @@
 
 ## 🎬 ویدیوی دمو
 
-> **[▶ تماشای ویدیوی کامل (۵ دقیقه)](docs/demo.mp4)** — همه صحنه‌ها اجرای واقعی روی حساب لیارا هستند؛ هیچ بخشی شبیه‌سازی نشده است.
+> **[▶ تماشای ویدیوی کامل (۵ دقیقه)](https://hamyar-copilot.liara.run/demo.mp4)** — همه صحنه‌ها اجرای واقعی روی حساب لیارا هستند؛ هیچ بخشی شبیه‌سازی نشده است.
 
 <div align="center"><img src="docs/preview.gif" alt="پیش‌نمایش: انتشار، شکست سلامت و اصلاح خودکار" width="85%"></div>
 
